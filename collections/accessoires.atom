@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://anchorable.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://anchorable.myshopify.com/collections/accessoires.atom"/>
+  <title>Anchorable</title>
+  <updated>2020-01-29T11:06:41+01:00</updated>
+  <author>
+    <name>Anchorable</name>
+  </author>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/4458992959560</id>
+    <published>2020-01-29T11:06:41+01:00</published>
+    <updated>2020-01-29T11:06:41+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/emaille-tasse-i-dont-give-a-mug"/>
+    <title>Emaille-Tasse &quot;I don&apos;t give a mug!&quot;</title>
+    <s:type>Accessoires</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Tasse_AnimiertesGIF_alle2Bilder_klein.gif?v=1580292926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Accessoires<br>
+        <strong>Preis: </strong>
+            16.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hands off! We really won't! Tolle Emaille-Tasse mit farbigem Print und klarem Statement, dass hier definitiv keine Kaffees geteilt werden 🚫 Irgendwo hört der Spaß nämlich auch auf! 😉<br><br>Bitte spült die Tassen sicherheitshalber nur per Hand um das Druckbild zu erhalten – in der Spülmaschine können wir für nichts garantieren ✌🏼</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Emaille</s:tag>
+    <s:tag>home</s:tag>
+    <s:tag>Mug</s:tag>
+    <s:tag>Tasse</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4458992959560</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/4308719894600</id>
+    <published>2019-10-24T17:59:41+02:00</published>
+    <updated>2019-10-24T17:59:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/rucksack-keep-on-rolling"/>
+    <title>Rucksack „Keep On Rolling“</title>
+    <s:type>Tasche</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/1-1_Rucksack_Keep-On-Rolling.jpg?v=1576949989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Tasche<br>
+        <strong>Preis: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Wir haben hier einen sehr hochwertigen, senfgelben Rucksack mit Rollverschluss für euch! Er kommt mit gepolsterten Schulterriemen und Rückenbereich daher, hat in der kleineren Tasche vorne einige Zubehörfächer und einen zusätzliches Reißverschlussfach im Inneren. Durch die zusätzlichen Tragegriffe kann man ihn auch schnell mal so durch die Gegend tragen! </span><span>🎒</span></p>
+<p>Größe: 28 x 38 x 12 cm</p>
+<p> </p>
+<p><span style="color: #b3b3b3;"><i>Material: 100% Polyester</i></span></p>
+<p><span style="color: #b3b3b3;"><i>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar in Einzelfällen zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</i></span></p>
+<p><span style="color: #b3b3b3;"><i><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></i></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Backpack</s:tag>
+    <s:tag>Rucksack</s:tag>
+    <s:tag>Tasche</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308719894600</id>
+      <title>Mustard</title>
+      <s:price currency="EUR">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308719894600</id>
+      <title>Olive</title>
+      <s:price currency="EUR">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308719894600</id>
+      <title>Black</title>
+      <s:price currency="EUR">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308719894600</id>
+      <title>Blue</title>
+      <s:price currency="EUR">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885541687366</id>
+    <published>2019-07-12T15:00:07+02:00</published>
+    <updated>2019-07-12T15:00:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/kunstdruck-the-cure-auf-buttenpapier"/>
+    <title>Siebdruck &quot;The Cure&quot; auf Büttenpapier</title>
+    <s:type>Accessoires</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/24-1_Siebdruck-The-Cure-auf-Buettenpapier.jpg?v=1562779364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Accessoires<br>
+        <strong>Preis: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Was wir schon immer mal machen wollten: Handgedruckte Siebdrucke auf einem tollen, handgeschöpften Büttenpapier! Ihr bekommt sie entweder in Schwarz mit Purpur-Sprenklern, oder in Purpur mit schwarzen Sprenklern. Jeder Print ist ein Einzelstück, hat komplett unterschiedliche Sprenkler, ist je Farbe auf 15 Stück limitiert und von Hand nummeriert. Macht sich toll in eurem Wohnzimmer, Büro oder Schlafzimmer!<br>Wir haben sie bewusst nicht eingerahmt – die Wahl der passenden Präsentation wollten wir euch überlassen 😉<br>(Sie kommen aber alle in dicken Klarsichthüllen zum Schutz und nicht geknickt oder gerollt!)</p>
+<p><span style="color: #999999;"><em>Material: Büttenpapier<br><br><span></span></em></span><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Artprint</s:tag>
+    <s:tag>Büttenpapier</s:tag>
+    <s:tag>Kunstdruck</s:tag>
+    <s:tag>Siebdruck</s:tag>
+    <s:tag>The Cure</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885541687366</id>
+      <title>Schwarz mit Purpur-Sprenklern</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885541687366</id>
+      <title>Purpur mit Schwarz-Sprenklern</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885533495366</id>
+    <published>2019-07-12T15:00:07+02:00</published>
+    <updated>2019-07-12T15:00:07+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/sonnenbrille-skateboard"/>
+    <title>Sonnenbrille &quot;Skateboard&quot;</title>
+    <s:type>Sonnenbrille</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/IMG_4065_entw.jpg?v=1562106389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Sonnenbrille<br>
+        <strong>Preis: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Stylische Sonnenbrille im Skateboard-Deck-Look und eingelasertem Anchorable-Design auf den Seiten. Die Gläser und Außenseiten der Brille sind dezent/dunkel gehalten – innen dreht sie aber grün auf! Business on the outside – party on the inside 😎</span></p>
+<p><span style="color: #999999;"><em>Material: Bambus, LSF: 400<br><br><span></span></em></span><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Sonnenbrille</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885533495366</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885524746310</id>
+    <published>2019-07-12T15:00:06+02:00</published>
+    <updated>2019-07-12T15:00:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/sonnenbrille-turtle"/>
+    <title>Sonnenbrille &quot;Turtle&quot;</title>
+    <s:type>Sonnenbrille</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/IMG_4032_entw.jpg?v=1562106023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Sonnenbrille<br>
+        <strong>Preis: </strong>
+            27.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">Stylische Sonnenbrille mit Bambus-Bügeln und eingelasertem Anchorable-Design auf den Seiten. Die Gläser sind rot-gelb verspiegelt und haben einen Lichtschutzfaktor von 400.</span></p>
+<p><span style="color: #999999;"><em>Material: Bambus, LSF: 400<br><br><span></span></em></span><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Sonnenbrille</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885524746310</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/2038806380614</id>
+    <published>2019-04-02T18:29:23+02:00</published>
+    <updated>2019-04-02T18:29:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/soft-emaille-pin-anchor"/>
+    <title>Soft Emaille Pin &quot;Anchor&quot;</title>
+    <s:type>Pin</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/AC_Pins-Kupfer_Post_1.jpg?v=1554223398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Pin<br>
+        <strong>Preis: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Egal ob an eurer Jeansjacke, dem Rucksack oder wo auch immer ihr mögt – unsere kupferfarbenen Soft-Emaille Pins machen überall was her! Sie sind sehr hochwertig und detailiert gearbeitet und haben eine dezente Höhe von 2,5cm. Auf der Rückseite werden sie mit einen Butterfly-Verschluss befestigt.</p>
+<p><span style="color: #808080;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Anstecker</s:tag>
+    <s:tag>Emaille</s:tag>
+    <s:tag>Kupfer</s:tag>
+    <s:tag>Pin</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/2038806380614</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">5.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723549220934</id>
+    <published>2018-10-24T16:01:00+02:00</published>
+    <updated>2018-10-24T16:01:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/mappchen-sweet-sea"/>
+    <title>Mäppchen &quot;Sweet Sea&quot;</title>
+    <s:type>Accessoires</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/13-1_Maeppchen_Sweet-Sea_DSC_1770.jpg?v=1540389811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Accessoires<br>
+        <strong>Preis: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diese kleinen Mäppchen im Vintage-Stil sind ein echter Allrounder! Egal ob Stifte, Schminkzeug oder anderer Kleinkram. So schick habt ihr euren Krempel noch nie zusammen gehalten ;)<br>Volumen: Ca. 1 Liter.<br><br><span style="color: #999999;"><em>Material: 100% Baumwolle</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Bag</s:tag>
+    <s:tag>Mäppchen</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Sweet Sea</s:tag>
+    <s:tag>Tasche</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723549220934</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

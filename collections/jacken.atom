@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://anchorable.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://anchorable.myshopify.com/collections/jacken.atom"/>
+  <title>Anchorable</title>
+  <updated>2019-10-24T17:59:41+02:00</updated>
+  <author>
+    <name>Anchorable</name>
+  </author>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/4308712194120</id>
+    <published>2019-10-24T17:59:41+02:00</published>
+    <updated>2019-10-24T17:59:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/gefutterte-ubergangsjacke-wilderness"/>
+    <title>Gefütterte Übergangsjacke „Wilderness“</title>
+    <s:type>Jacken</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/3-1_Gefuetterte-Uebergangsjacke_Wilderness.jpg?v=1573114919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Jacken<br>
+        <strong>Preis: </strong>
+            44.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This is for the wild ones! Unsere neue, grüne Übergangsjacke mit Tigermuster über den Schultern ist der absolute Wahnsinn </span><span>🙌🏼</span><span><span class="Apple-converted-space">  </span>Durch den halben Reißverschluss oben und den zweiten an der unteren Seite lässt sich diese Überzieh-Jacke soweit öffnen, dass man sie auch bei Wechselwetter noch bequem und gut durchgelüftet tragen kann. An- und ausziehen ist somit auch kein Problem! Vorne versteckt sich eine praktische Brusttasche und im Inneren wartet übrigens eine kuschelige Fütterung aus Polar Fleece und Taft </span><span>😍</span></p>
+<p> </p>
+<p><span><i>Material:</i></span></p>
+<p><span>Futter 1: 100% Polyester, polar fleece , 150 GSM<span class="Apple-converted-space"> </span></span></p>
+<p><span>Futter 2: 100% Polyester, 230 T Tafeta, 68 GSM<span class="Apple-converted-space"> </span></span></p>
+<p><span>Oberstoff: 100% Nylon, 40 D Nylon, 58 GSM<span class="Apple-converted-space"> </span></span></p>
+<p><span>Wattierung: 100% Polyester</span></p>
+<p><span>Sleeve: 800# Polyester Padding</span></p>
+<p> </p>
+<p><span style="color: #b3b3b3;"><i>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar in Einzelfällen zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</i></span></p>
+<p><span style="color: #b3b3b3;"><i><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></i></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Jacke</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308712194120</id>
+      <title>Small</title>
+      <s:price currency="EUR">44.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308712194120</id>
+      <title>Medium</title>
+      <s:price currency="EUR">44.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308712194120</id>
+      <title>Large</title>
+      <s:price currency="EUR">44.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308712194120</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">44.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885487063110</id>
+    <published>2019-07-12T15:00:04+02:00</published>
+    <updated>2019-07-12T15:00:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/retro-sportjacke-mini-logo"/>
+    <title>Retro Sportjacke &quot;Mini Logo&quot;</title>
+    <s:type>Jacken</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/12-1_Retro-Sportjacke-Mini-Logo.jpg?v=1562775048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Jacken<br>
+        <strong>Preis: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sportlich oder stylisch: Unsere Retro Sportjacke kann beides! Der Breite Gummibund an den Ärmeln und am Saum, sowie die weite Passform und der gefütterte Kragen geben dir den Tragekomfort, den du dir wünschst. Mit praktischen Extras wie seitlichen Reißverschlüssen für leichteres Anziehen, der anpassbaren Kapuze und der Reißverschlusstasche auf der Front unterstützt dich die Jacke bei allem, was du diesen Sommer vorhast.</span><br><br><span>Photos: Jennifer Weber, Hamburg (@naturallightmoments)</span><br><span>Models: </span>Nathalie (@natzfratz), <span>Tim (@teepixx_vid)</span></p>
+<p><span></span><em style="color: #999999;">Material: 100% Polyester</em></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jacke</s:tag>
+    <s:tag>Regenjacke</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sport</s:tag>
+    <s:tag>Windbreaker</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885487063110</id>
+      <title>Small</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885487063110</id>
+      <title>Medium</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885487063110</id>
+      <title>Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885487063110</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885472383046</id>
+    <published>2019-07-12T15:00:04+02:00</published>
+    <updated>2019-07-12T15:00:04+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/jacke-mini-logo"/>
+    <title>Windbreaker &quot;Mini Logo&quot;</title>
+    <s:type>Jacken</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/11-1_Jacke-Mini-Logo.jpg?v=1562774827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Jacken<br>
+        <strong>Preis: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #999999;"><em>Unisex</em></span><br><br></span><span>So schlicht, so sportlich: Diese Jacke punktet mit Raglan-Ärmeln und dem pfeilförmig zulaufenden, schwarz-oliven Farbkontrast auf der Front. Für modernen Tragekomfort sorgen das leichte Material und das Mesh-Lining. Coole Details wie der innenliegende Elastik-Tunnelzug im Saum und das dezente Anchorable-Logo auf der Brust runden das Ganze ab.</span> <br><br><span>Photos: Jennifer Weber, Hamburg (@naturallightmoments)</span><br><span>Models: </span><span>Tim (@teepixx_vid), </span>Nathalie (@natzfratz)</p>
+<p><span style="color: #999999;"><em>Material: 100% <span>Polyester</span></em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Jacke</s:tag>
+    <s:tag>Regenjacke</s:tag>
+    <s:tag>Windbreaker</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885472383046</id>
+      <title>Small</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885472383046</id>
+      <title>Medium</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885472383046</id>
+      <title>Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885472383046</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885414907974</id>
+    <published>2019-07-12T15:00:02+02:00</published>
+    <updated>2019-07-12T15:00:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/zipper-land-in-sicht"/>
+    <title>Zipper &quot;Land in Sicht&quot;</title>
+    <s:type>Zipper</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/21-1_Zipper-Land-in-Sicht.jpg?v=1562778252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Zipper<br>
+        <strong>Preis: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #999999;"><em>Unisex</em></span><br><br>Land in Sicht! Gibt es viele bessere Gefühle, als wenn es nach einem langen Tief endlich wieder bergauf geht? Auch wenn Du die Augen mal schließt, geht die Sonne noch auf! Unser dicker, gemütlich-weicher Zipper mit Kapuze kommt mit einem kleinen, weißen Brust-Print über dem Herzen und einem großen Backprint auf dem Rücken.<br><br><span>Photos: Jennifer Weber, Hamburg (@naturallightmoments)</span><br><span>Models: </span>Laura (@pritschekuchen), <span>Tim (@teepixx_vid)</span></p>
+<p><span style="color: #999999;"><em>Material: <span>50% Baumwolle / 50% Polyester</span></em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>Jacke</s:tag>
+    <s:tag>Land in Sicht</s:tag>
+    <s:tag>Pullover</s:tag>
+    <s:tag>Sweatshirt</s:tag>
+    <s:tag>Zipper</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>Small</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>Medium</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>XX-Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

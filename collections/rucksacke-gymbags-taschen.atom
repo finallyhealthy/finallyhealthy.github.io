@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://anchorable.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://anchorable.myshopify.com/collections/rucksacke-gymbags-taschen.atom"/>
+  <title>Anchorable</title>
+  <updated>2019-10-24T17:59:41+02:00</updated>
+  <author>
+    <name>Anchorable</name>
+  </author>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/4308719894600</id>
+    <published>2019-10-24T17:59:41+02:00</published>
+    <updated>2019-10-24T17:59:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/rucksack-keep-on-rolling"/>
+    <title>Rucksack „Keep On Rolling“</title>
+    <s:type>Tasche</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/1-1_Rucksack_Keep-On-Rolling.jpg?v=1576949989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Tasche<br>
+        <strong>Preis: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Wir haben hier einen sehr hochwertigen, senfgelben Rucksack mit Rollverschluss für euch! Er kommt mit gepolsterten Schulterriemen und Rückenbereich daher, hat in der kleineren Tasche vorne einige Zubehörfächer und einen zusätzliches Reißverschlussfach im Inneren. Durch die zusätzlichen Tragegriffe kann man ihn auch schnell mal so durch die Gegend tragen! </span><span>🎒</span></p>
+<p>Größe: 28 x 38 x 12 cm</p>
+<p> </p>
+<p><span style="color: #b3b3b3;"><i>Material: 100% Polyester</i></span></p>
+<p><span style="color: #b3b3b3;"><i>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar in Einzelfällen zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</i></span></p>
+<p><span style="color: #b3b3b3;"><i><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></i></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Backpack</s:tag>
+    <s:tag>Rucksack</s:tag>
+    <s:tag>Tasche</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308719894600</id>
+      <title>Mustard</title>
+      <s:price currency="EUR">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308719894600</id>
+      <title>Olive</title>
+      <s:price currency="EUR">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308719894600</id>
+      <title>Black</title>
+      <s:price currency="EUR">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308719894600</id>
+      <title>Blue</title>
+      <s:price currency="EUR">29.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885518127174</id>
+    <published>2019-07-12T15:00:06+02:00</published>
+    <updated>2019-07-12T15:00:06+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/tote-bag-skate-or-die"/>
+    <title>Tote Bag &quot;Skate Or Die&quot;</title>
+    <s:type>Tasche</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/19-1_Tote-Bag-Skate-Or-Die.jpg?v=1562777661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Tasche<br>
+        <strong>Preis: </strong>
+            15.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Skate or die! Diese schicken, fair gehandelten Totebags kommen in zwei Farben zu euch nach Hause (white on black / red on yellow) und lassen sich mit ihren langen Hänkeln besonders gut über der Schulter tragen!</span></p>
+<ul>
+<li>Fairtrade</li>
+<li>Bio-Baumwolle</li>
+<li>GOTS-zertifiziert</li>
+</ul>
+<p><span>Photos: Jennifer Weber, Hamburg (@naturallightmoments)</span><br><span>Model: </span>Nathalie (@natzfratz)</p>
+<p><span style="color: #999999;"><em>Material: 100% Baumwolle<br><br><span></span></em></span><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Skate Or Die</s:tag>
+    <s:tag>Tasche</s:tag>
+    <s:tag>Totebag</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885518127174</id>
+      <title>Schwarz</title>
+      <s:price currency="EUR">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885518127174</id>
+      <title>Gelb</title>
+      <s:price currency="EUR">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885512851526</id>
+    <published>2019-07-12T15:00:05+02:00</published>
+    <updated>2019-07-12T15:00:05+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/jeans-gymbag-land-in-sicht"/>
+    <title>Jeans Gymbag &quot;Land in Sicht&quot;</title>
+    <s:type>Tasche</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/7-2_Jeans-Gymbag-Land-in-Sicht.jpg?v=1562773689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Tasche<br>
+        <strong>Preis: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Land in Sicht! Gibt es viele bessere Gefühle, als wenn es nach einem langen Tief endlich wieder bergauf geht? Auch wenn Du die Augen mal schließt, geht die Sonne noch auf!<br></span>Unser stylischer Gymbag aus Jeansstoff kommt mit Tragegurten aus Baumwolle und einem praktischen Tragegriff an der Oberseite, womit er auch in der Hand getragen werden kann.<br><br><span>Photos: Jennifer Weber, Hamburg (@naturallightmoments)</span><br><span>Model: </span>Laura (@pritschekuchen)</p>
+<p><span style="color: #999999;"><em>Material: Gurte: 100% Baumwolle, Stoff: 100% Denim<br><br><span></span></em></span><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backpack</s:tag>
+    <s:tag>Gymbag</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Land in Sicht</s:tag>
+    <s:tag>Turnbeutel</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885512851526</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885246447686</id>
+    <published>2019-07-02T18:03:00+02:00</published>
+    <updated>2019-07-02T18:03:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/gurteltasche-feathers"/>
+    <title>Gürteltasche &quot;Feathers&quot;</title>
+    <s:type>Tasche</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/IMG_4086.jpg?v=1562086027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Tasche<br>
+        <strong>Preis: </strong>
+            13.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Na, da haben wir doch letztes Jahr nach den Festivals ganz vergessen unsere beliebten Bauchläden auch online einzustellen.. 🤦🏼‍♂️ Naja, dann halt jetzt! Quick and dirty!</p>
+<p><span style="color: #999999;"><em>Material: 100% <span>Polyester</span></em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bauchladen</s:tag>
+    <s:tag>Bauchtasche</s:tag>
+    <s:tag>Feathers</s:tag>
+    <s:tag>Gürteltasche</s:tag>
+    <s:tag>Tasche</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885246447686</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885246447686</id>
+      <title>Grau</title>
+      <s:price currency="EUR">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885246447686</id>
+      <title>Camo</title>
+      <s:price currency="EUR">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885246447686</id>
+      <title>Neon Orange</title>
+      <s:price currency="EUR">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723549220934</id>
+    <published>2018-10-24T16:01:00+02:00</published>
+    <updated>2018-10-24T16:01:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/mappchen-sweet-sea"/>
+    <title>Mäppchen &quot;Sweet Sea&quot;</title>
+    <s:type>Accessoires</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/13-1_Maeppchen_Sweet-Sea_DSC_1770.jpg?v=1540389811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Accessoires<br>
+        <strong>Preis: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diese kleinen Mäppchen im Vintage-Stil sind ein echter Allrounder! Egal ob Stifte, Schminkzeug oder anderer Kleinkram. So schick habt ihr euren Krempel noch nie zusammen gehalten ;)<br>Volumen: Ca. 1 Liter.<br><br><span style="color: #999999;"><em>Material: 100% Baumwolle</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Bag</s:tag>
+    <s:tag>Mäppchen</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Sweet Sea</s:tag>
+    <s:tag>Tasche</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723549220934</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

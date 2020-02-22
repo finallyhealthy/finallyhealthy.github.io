@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://anchorable.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://anchorable.myshopify.com/collections/sale.atom"/>
+  <title>Anchorable</title>
+  <updated>2018-12-15T11:30:35+01:00</updated>
+  <author>
+    <name>Anchorable</name>
+  </author>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921932296262</id>
+    <published>2018-12-15T11:30:35+01:00</published>
+    <updated>2018-12-15T11:30:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/beanie-soft-pastel"/>
+    <title>Beanie &quot;Soft Pastel&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_6.JPG?v=1544870370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Die superweiche Beanie kommt in drei wunderschönen Pastelltönen zu euch nach Hause: Mint, Rosa und Blau. Also flauschiger geht es wohl kaum! 😉</p>
+<p><span style="color: #999999;"><em>Material: <span>66% Polyacryl / 31% Polyamid / 3% Elasthan</span></em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beanie</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>Pastell</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921932296262</id>
+      <title>Mint</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921932296262</id>
+      <title>Rosa</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921932296262</id>
+      <title>Blau</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921912176710</id>
+    <published>2018-12-15T11:03:21+01:00</published>
+    <updated>2018-12-15T11:03:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-mustard-blue"/>
+    <title>Bommelmütze &quot;Mustard Blue&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_5.JPG?v=1544869751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eine super stylische Bommelmütze in verschiedenen Blautönen mit senfgelben Highlights. Schön weich gefüttert, ist sie ein Muss für jeden modebewussten Winterfan! 😉</p>
+<p><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921912176710</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921892188230</id>
+    <published>2018-12-15T10:51:44+01:00</published>
+    <updated>2018-12-15T10:51:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-ombre-blue"/>
+    <title>Bommelmütze &quot;Ombre Blue&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_4.JPG?v=1544868123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nicht nur in den Haaren macht das einiges her - auch auf der Mütze sieht so ein Farbverlauf gut aus! 😉 In unserem Fall hier von hellerem blau zu dunklerem blau. Außerdem ist die Bommelmütze schön warm gefüttert!</p>
+<p><span style="color: #999999;"><em>Material: Außen: 100% Polyacryl, Futter: 100% Polyester</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921892188230</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921881636934</id>
+    <published>2018-12-15T10:27:14+01:00</published>
+    <updated>2018-12-15T10:27:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-classic-winter"/>
+    <title>Bommelmütze &quot;Classic Winter&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_3.JPG?v=1544867132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfekter Look für die Winterzeit oder auf dem Weihnachtsmarkt? Kein Problem! Mit unseren hochwertigen "Classic Winter" Bommelmützen macht ihr immer eine gute Figur und kalt wird euch auch ganz bestimmt nicht 😉</p>
+<p><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921881636934</id>
+      <title>Schwarz</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921881636934</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921872756806</id>
+    <published>2018-12-15T10:11:10+01:00</published>
+    <updated>2018-12-15T10:11:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-classic"/>
+    <title>Bommelmütze &quot;Classic&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_2.JPG?v=1544866028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unsere klassische Bommelmützen kommen in einem wunderschönen Senfgelb oder Bordeaux zu euch nach Hause! Und runden so wirklich jedes Winteroutfit ab!</p>
+<p><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921872756806</id>
+      <title>Senfgelb</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921872756806</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921862336582</id>
+    <published>2018-12-15T09:39:02+01:00</published>
+    <updated>2018-12-15T09:39:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-classic-knit"/>
+    <title>Bommelmütze &quot;Classic Knit&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_1.JPG?v=1544865034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unsere "Classic Knit" Bommelmütze kommt in zwei Varianten - die "Light"-Variante mit dicker, heller Wolle, die mit einzelnen, dunklen Fäden durchzogen ist - und die "Dark"-Variante genau anders rum 😉 Beide Varianten haben einen schönen, dicken Bommel!<br><br><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921862336582</id>
+      <title>Light</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921862336582</id>
+      <title>Dark</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723753726022</id>
+    <published>2018-10-24T16:47:37+02:00</published>
+    <updated>2018-10-24T16:47:37+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/5-panel-snapback-heart"/>
+    <title>5-Panel Snapback &quot;Heart&quot;</title>
+    <s:type>Kappe</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/WhiteSummer_Lookbook_05.jpg?v=1540392670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Kappe<br>
+        <strong>Preis: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One size fits all! Unsere neuen 5-Panel-Caps kommen entweder in "Camouflage" oder in "Olive" zu Euch nach Hause. Auf der Frontseite findet ihr unser gesticktes "Heart"-Patch, an den Seiten Luftlöcher mit Metall-Ösen und hinten einen Verschluss in Nylon mit Kunststoff-Schnalle.<br><br><span style="color: #999999;"><em>Material: 100% Baumwolle</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5-Panel</s:tag>
+    <s:tag>Cap</s:tag>
+    <s:tag>Heart</s:tag>
+    <s:tag>Kappe</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Snapback</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723753726022</id>
+      <title>Camoflage</title>
+      <s:price currency="EUR">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723753726022</id>
+      <title>Olive</title>
+      <s:price currency="EUR">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723699167302</id>
+    <published>2018-10-24T16:36:12+02:00</published>
+    <updated>2018-10-24T16:36:12+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/t-shirt-cooper"/>
+    <title>T-Shirt &quot;Cooper&quot;</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/9_DSC_0080_Web.jpg?v=1540392032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Shirt<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #999999;"><em>Unisex</em></span></p>
+<p>Hier endlich noch mal etwas Farbe! Unser neues Basic-Shirt kommt zwar bloß mit einem kleinen, schlichten Brustprint, aber dafür in 4 verschiedenen richtig schönen Farben! Understatement at its best!<br><br><span style="color: #999999;"><em>Material Red: 50% Baumwolle, 50% Polyester</em></span><br><span style="color: #999999;"><em>Material Dark Grey: 50% Baumwolle, 50% Polyester</em></span><br><span style="color: #999999;"><em>Material Light Grey: 90% Baumwolle, 10% Polyester</em></span><br><span style="color: #999999;"><em>Material Dark Blue: 50% Baumwolle, 50% Polyester</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooper</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Rot / Small</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Rot / Medium</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Rot / Large</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Rot / X-Large</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Dunkelgrau / Small</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Dunkelgrau / Medium</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Dunkelgrau / Large</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Dunkelgrau / X-Large</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Hellgrau / Small</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Hellgrau / Medium</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Hellgrau / Large</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Hellgrau / X-Large</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Dunkelblau / Small</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Dunkelblau / Medium</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Dunkelblau / Large</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723699167302</id>
+      <title>Dunkelblau / X-Large</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723665645638</id>
+    <published>2018-10-24T16:30:39+02:00</published>
+    <updated>2018-10-24T16:30:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/top-cooper"/>
+    <title>Top &quot;Cooper&quot;</title>
+    <s:type>Top</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/24_DSC_0170_Web_kurz.jpg?v=1540391564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Top<br>
+        <strong>Preis: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hier bekommt ihr ein schickes, schlichtes Top für warme Sommertage aus einem weichen, schön fallendem Stoff. Es kommt mit einem weißen Typo-Print auf der Vorderseite und mit einer Racerback Rückseite.<br><br><span style="color: #999999;"><em>Material: 100% Lyocell</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooper</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723665645638</id>
+      <title>Small</title>
+      <s:price currency="EUR">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723665645638</id>
+      <title>Medium</title>
+      <s:price currency="EUR">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723665645638</id>
+      <title>Large</title>
+      <s:price currency="EUR">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723649949766</id>
+    <published>2018-10-24T16:26:41+02:00</published>
+    <updated>2018-10-24T16:26:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/hooded-top-cooper"/>
+    <title>Hooded Top &quot;Cooper&quot;</title>
+    <s:type>Top</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/1_DSC_9899_Web.jpg?v=1540391383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Top<br>
+        <strong>Preis: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Also dieser Schnitt ist wirklich mal was anderes! Das weit fallende Top hat große Armlöcher wo normal die Ärmel wären und eine große Kaputze. Auf der Vorderseite findet ihr einen großen Typo-Print. Na, also DAS ist doch mal was!<br><br><span style="color: #999999;"><em>Material: 100% Baumwolle</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cooper</s:tag>
+    <s:tag>Hood</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723649949766</id>
+      <title>X-Small</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723649949766</id>
+      <title>Small</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723649949766</id>
+      <title>Medium</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723649949766</id>
+      <title>Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723649949766</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723618492486</id>
+    <published>2018-10-24T16:18:13+02:00</published>
+    <updated>2018-10-24T16:18:13+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/t-shirt-rip-off"/>
+    <title>T-Shirt &quot;RIP-OFF&quot;</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/IMG_8039_sqare.jpg?v=1540391090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Shirt<br>
+        <strong>Preis: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #999999;"><em>Unisex</em></span></p>
+<p>Unser neues "RIP-OFF"-Shirt ist eine Hommage an DAS große Ur-Gestein im Skateboarding und kommt entweder mit hippen blau/schwarzen Batik-Swirl oder ganz schlicht in schwarz. Jeweils mit weißem Print.<br><br>Please don't sue us – we are just big fans :)<br><br>Kickflip by Danny Leicher (@deezyeins)<br>Photo by Blanca Kraus (@blancarina28)<br><br><span style="color: #999999;"><em>Material: 100% Baumwolle</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Batik</s:tag>
+    <s:tag>Off</s:tag>
+    <s:tag>Rip</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723618492486</id>
+      <title>Batik / Small</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723618492486</id>
+      <title>Batik / Medium</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723618492486</id>
+      <title>Batik / Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723618492486</id>
+      <title>Schwarz / Small</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723618492486</id>
+      <title>Schwarz / Medium</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723618492486</id>
+      <title>Schwarz / Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723577925702</id>
+    <published>2018-10-24T16:10:55+02:00</published>
+    <updated>2018-10-24T16:10:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/beanie-mini-logo"/>
+    <title>Beanie &quot;Mini Logo&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Beanie-Mini-Logo.jpg?v=1540390363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eine klassische Beanie mit unserem schlichten Mini-Anker-Logo am Saum. Sie kommt in 3 verschiedenen Farb-Varianten und bietet euch Schutz an stürmischen Herbsttagen!<br><br><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beanie</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723577925702</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723577925702</id>
+      <title>Grün</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723577925702</id>
+      <title>Beige</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723572256838</id>
+    <published>2018-10-24T16:08:11+02:00</published>
+    <updated>2018-10-24T16:08:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/sailor-beanie-mini-logo"/>
+    <title>Sailor-Beanie &quot;Mini-Logo&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Sailor-Beanie-Mini-Logo.jpg?v=1540390234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diese Sailor-Beanie kommt im hippen Retro-Look und geripptem, etwas dünnerem Strick. Am Saum findet ihr unser schlichtes Mini-Anker-Logo. Sie kommt in 3 verschiedenen Farb-Varianten und macht nicht nur draußen eine super Figur!<br><br><span style="color: #999999;"><em>96% Polyacryl / 4% Polyester</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beanie</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>Sailor</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723572256838</id>
+      <title>Schwarz</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723572256838</id>
+      <title>Gelb</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723572256838</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723572256838</id>
+      <title>Dunkelgrün</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723564359750</id>
+    <published>2018-10-24T16:04:56+02:00</published>
+    <updated>2018-10-24T16:04:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-mini-logo"/>
+    <title>Bommelmütze &quot;Mini-Logo&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Bommelmuetze-Mini-Logo.jpg?v=1540390077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unsere neuen Bommelmützen mit klassischem und schlichten Mini-Anker-Logo am Saum kommt in 3 verschiedenen Farb-Varianten. Alle mit fettem Bommel und schön warm für kalte Wintertage. Die hellgrau-orangene Variante sogar mit einem extra-kuscheligen Innenfutter!<br><br><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723564359750</id>
+      <title>Beige-Korall-Blau</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723564359750</id>
+      <title>Hellgrau-Orange</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723564359750</id>
+      <title>Dunkelgrau-Blau-Grün</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723549220934</id>
+    <published>2018-10-24T16:01:00+02:00</published>
+    <updated>2018-10-24T16:01:00+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/mappchen-sweet-sea"/>
+    <title>Mäppchen &quot;Sweet Sea&quot;</title>
+    <s:type>Accessoires</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/13-1_Maeppchen_Sweet-Sea_DSC_1770.jpg?v=1540389811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Accessoires<br>
+        <strong>Preis: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diese kleinen Mäppchen im Vintage-Stil sind ein echter Allrounder! Egal ob Stifte, Schminkzeug oder anderer Kleinkram. So schick habt ihr euren Krempel noch nie zusammen gehalten ;)<br>Volumen: Ca. 1 Liter.<br><br><span style="color: #999999;"><em>Material: 100% Baumwolle</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessoires</s:tag>
+    <s:tag>Bag</s:tag>
+    <s:tag>Mäppchen</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Sweet Sea</s:tag>
+    <s:tag>Tasche</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723549220934</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723535261766</id>
+    <published>2018-10-24T15:57:50+02:00</published>
+    <updated>2018-10-24T15:57:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/vintage-cap-feathers"/>
+    <title>Vintage Cap &quot;Feathers&quot;</title>
+    <s:type>Kappe</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/18-1_Vintage-Cap_Feathers_DSC_1695.jpg?v=1540389632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Kappe<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hipsters gonna Hip! Angesagte Vintage Cap in vintage bordeaux oder vintage black mit Riemen-Verschluss im Messing-Look.<br><br><span style="color: #999999;"><em>Material: 100% Baumwolle</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cap</s:tag>
+    <s:tag>Feathers</s:tag>
+    <s:tag>Kappe</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723535261766</id>
+      <title>Vintage Bordeaux</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723535261766</id>
+      <title>Vintage Black</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723511111750</id>
+    <published>2018-10-24T15:51:38+02:00</published>
+    <updated>2018-10-24T15:51:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/jogginghose-sweet-sea"/>
+    <title>Jogginghose &quot;Sweet Sea&quot;</title>
+    <s:type>Hose</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/15-1_Jogginghose_Sweet-Sea_DSC_1953.jpg?v=1540389273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Hose<br>
+        <strong>Preis: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #999999;"><em>Unisex</em></span></p>
+<p>Wer sagt schon, dass man zuhause nicht auch gut aussehen darf?! Mit unserer neuen Jogginghose mit dezentem "Sweet Sea"-Print ist eure untere Hälfte zumindest schon mal Safe!<br>Sie kommt mit einem vertieften Schritt (für das absolute Freiheitsgefühl), mit schmalen Beinen im Röhren-Stil, Fronttaschen mit Reißverschlüssen (damit ihr nie wieder das Handy aus der Sofa-Ritze fischen müsst) und natürlich superweich und kuschelig zu euch nach Hause!<br><br><span style="color: #999999;"><em>Material: 80% Baumwolle / 20% Polyester</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hose</s:tag>
+    <s:tag>Jogging</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Sweet Sea</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723511111750</id>
+      <title>Small</title>
+      <s:price currency="EUR">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723511111750</id>
+      <title>Medium</title>
+      <s:price currency="EUR">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723511111750</id>
+      <title>Large</title>
+      <s:price currency="EUR">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723511111750</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723495448646</id>
+    <published>2018-10-24T15:48:42+02:00</published>
+    <updated>2018-10-24T15:48:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/striped-shirt-sweet-sea"/>
+    <title>Striped Shirt &quot;Sweet Sea&quot;</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/2-1_Striped-Shirt_Sweet-Sea_DSC_1910.jpg?v=1540389053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Shirt<br>
+        <strong>Preis: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Besonders schickes, mit sehr schmalen schwarz-grauen Streifen versehenes Shirt im Slimfit-Look. Also hier wirklich Achtung – ist schon recht körperbetont geschnitten! Der dezente Brust-Print über dem Herzen wird jeden erfreuen, der es schlichter mag! Auf geht's Matrosen!<br><br><span style="color: #999999;"><em>Material: 100% Baumwolle</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Striped</s:tag>
+    <s:tag>Sweet Sea</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723495448646</id>
+      <title>Small</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723495448646</id>
+      <title>Medium</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723495448646</id>
+      <title>Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723495448646</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723484176454</id>
+    <published>2018-10-24T15:45:38+02:00</published>
+    <updated>2018-10-24T15:45:38+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/wide-shirt-sweet-sea"/>
+    <title>Wide-Shirt &quot;Sweet Sea&quot;</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/1-1_Wide-Shirt_Sweet-Sea_DSC_1573.jpg?v=1540388892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Shirt<br>
+        <strong>Preis: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dieses schwarze Shirt ist etwas länger geschnitten und hat einen leicht größeren Halsausschnitt. Durch die ungesäumten Schnittkanten bekommt es eine roughe Optik und der dezente Brustprint ist auf jeden Fall etwas für alle, die es gerne nicht ganz so plakativ mögen!<br><br><span style="color: #999999;"><em>Material: 60% Baumwolle, 40% Polyester</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Sweet Sea</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Wide</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723484176454</id>
+      <title>Small</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723484176454</id>
+      <title>Medium</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723484176454</id>
+      <title>Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723484176454</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723408810054</id>
+    <published>2018-10-24T15:32:19+02:00</published>
+    <updated>2018-10-24T15:32:19+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/crop-top-illuminate-the-dark"/>
+    <title>Crop-Top &quot;Illuminate The Dark&quot;</title>
+    <s:type>Top</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/11-1_Crop-Top_Illuminate-The-Dark_DSC_1654.jpg?v=1540388092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Top<br>
+        <strong>Preis: </strong>
+            19.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ein echt nices Croptop in weiß mit unserem "Illuminate The Dark"-Print auf der Brust. Das Top ist leicht bauchfrei und fällt total luftig!<br><br>Damn it all, I am just sad<br>Everything's staying as fucked up<br>Because all that I used to have<br>Burned out in jar like a lightning bug<br><br><em><span style="color: #999999;">Material: 100% Polyester</span></em></p>
+<p><em><span style="color: #999999;">Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</span></em></p>
+<p><em><span style="color: #999999;">Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crop</s:tag>
+    <s:tag>Dark</s:tag>
+    <s:tag>Illuminate</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723408810054</id>
+      <title>Small</title>
+      <s:price currency="EUR">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723408810054</id>
+      <title>Medium</title>
+      <s:price currency="EUR">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723408810054</id>
+      <title>Large</title>
+      <s:price currency="EUR">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723384594502</id>
+    <published>2018-10-24T15:15:23+02:00</published>
+    <updated>2018-10-24T15:15:23+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/raglan-shirt-birds-of-a-feather"/>
+    <title>Raglan-Shirt &quot;Birds Of A Feather&quot;</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/3-1_Raglan-Shirt_Birds-Of-A-Feather_DSC_1690.jpg?v=1540387898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Shirt<br>
+        <strong>Preis: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Birds of a feather – flock together. <br>Oder: "Gleich und gleich gesellt sich gern".<br>In diesem Fall genauso wie die Farbe des Shirts und die Farbe des Prints. Denn der schwarze Print des eher lauten Motives hebt sich bei diesem Raglan-Shirt bewusst nur marginal vom dunkelgrauen Stoff ab.<br>Die Ärmel des etwas längeren Shirts sind zusätzlich auch noch in schwarz gehalten.<br><br><em><span style="color: #999999;">Material: 60% Baumwolle, 40% Polyester</span></em></p>
+<p><em><span style="color: #999999;">Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</span></em></p>
+<p><em><span style="color: #999999;">Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birds</s:tag>
+    <s:tag>Feather</s:tag>
+    <s:tag>Raglan</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723384594502</id>
+      <title>Small</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723384594502</id>
+      <title>Medium</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723384594502</id>
+      <title>Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723384594502</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723178319942</id>
+    <published>2018-10-24T15:02:43+02:00</published>
+    <updated>2018-10-24T15:02:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/long-loose-top-sweet-sea"/>
+    <title>Long Loose Top &quot;Sweet Sea&quot;</title>
+    <s:type>Top</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/9-1_Long-Loose-Top_Sweet-Sea_DSC_1785.jpg?v=1540386878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Top<br>
+        <strong>Preis: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ein wirklich tolles, etwas weiter geschnittenes Top mit dezentem "Sweet Sea"-Print auf der Brust. Das Top ist relativ lang designt und hat neben dem tiefen Halsausschnitt auch noch große Armausschnitte – hier kann man schön ein schickes Bandeau drunter tragen!<br><br><em><span style="color: #999999;">Material: 90% Baumwolle, 10% Viskose</span></em></p>
+<p><em><span style="color: #999999;">Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</span></em></p>
+<p><em><span style="color: #999999;">Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Long</s:tag>
+    <s:tag>Loose</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Sweet Sea</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723178319942</id>
+      <title>X-Small</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723178319942</id>
+      <title>Small</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723178319942</id>
+      <title>Medium</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723178319942</id>
+      <title>Large</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723178319942</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1716129464390</id>
+    <published>2018-10-23T16:55:43+02:00</published>
+    <updated>2018-10-23T16:55:43+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/raglan-3-4-sleeve-illuminate-the-dark"/>
+    <title>Raglan-3/4-Sleeve &quot;Illuminate The Dark&quot;</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/4-1_Raglan-3-4-Sleeve_Illuminate-The-Dark_DSC_1863.jpg?v=1540306884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Shirt<br>
+        <strong>Preis: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #999999;"><em>Unisex</em></span></p>
+<p>Die 3/4-langen Ärmel dieses ganz leicht taillierten Raglans sind in einem sehr schicken Petrol-Farbton gehalten. Auf der Brust des hellgrauen Mittelteils findet ihr unser "Illuminate The Dark"-Motiv. <br><br>Damn it all, I am just sad<br>Everything's staying as fucked up<br>Because all that I used to have<br>Burned out in jar like a lightning bug</p>
+<p><span style="color: #999999;"><em>Material: 50% Polyester, 25% Baumwolle, 25% Viskose</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark</s:tag>
+    <s:tag>Illuminate</s:tag>
+    <s:tag>Raglan</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1716129464390</id>
+      <title>Small</title>
+      <s:price currency="EUR">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1716129464390</id>
+      <title>Medium</title>
+      <s:price currency="EUR">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1716129464390</id>
+      <title>Large</title>
+      <s:price currency="EUR">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1716129464390</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">23.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1716033781830</id>
+    <published>2018-10-23T16:44:48+02:00</published>
+    <updated>2018-10-23T16:44:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/sports-top-feathers"/>
+    <title>Sports-Top &quot;Feathers&quot;</title>
+    <s:type>Top</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/1-1_Sport-Top_Feathers.jpg?v=1540306035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Top<br>
+        <strong>Preis: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Wenn es draußen wärmer wird und alle mal wieder anfangen an ihren Beach-Body zu arbeiten, haben wir dieses Jahr genau das richtige für euch: Mit unseren neuen Sport-Tops quält man sich ein bisschen weniger nach draußen, denn so seht ihr dabei wenigstens verdammt gut aus!<br><br><span style="color: #999999;"><em>Material: 90% Nylon, 10% Elasthan</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Feathers</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Sport</s:tag>
+    <s:tag>Top</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1716033781830</id>
+      <title>X-Small</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1716033781830</id>
+      <title>Small</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1715997835334</id>
+    <published>2018-10-23T16:39:41+02:00</published>
+    <updated>2018-10-23T16:39:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/t-shirt-eyecatcher"/>
+    <title>T-Shirt &quot;Eyecatcher&quot;</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/1-2_Shirt_Eyecatcher.jpg?v=1540305753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Shirt<br>
+        <strong>Preis: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #999999;"><em>Unisex</em></span></p>
+<p>Also eigentlich machen wir das ja nicht.. Aber ihr habt uns so oft gefragt, ob wir nicht noch mal was mit dem "Eyecatcher"-Motiv machen können, dass wir nicht anders konnten! Allerdings wollten wir natürlich dieses mal auch was für die Jungs machen – und da die Zipper von damals für den Sommer natürlich zu warm wären gibt es jetzt zum allerersten mal das Motiv auch auf einem Basic-T!<br><br>Photos: Jennifer Weber, Hamburg (@naturallightmoments)<br>Models: Enrico, Kiel (@slattagibs) | Lana, Kiel (@ostseeperle) <br><br><span style="color: #999999;"><em>Material: 100% Baumwolle</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eyecatcher</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1715997835334</id>
+      <title>Small</title>
+      <s:price currency="EUR">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1715997835334</id>
+      <title>Medium</title>
+      <s:price currency="EUR">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1715997835334</id>
+      <title>Large</title>
+      <s:price currency="EUR">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1715997835334</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">22.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

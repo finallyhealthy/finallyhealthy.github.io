@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://anchorable.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://anchorable.myshopify.com/collections/pullover-zipper.atom"/>
+  <title>Anchorable</title>
+  <updated>2019-07-12T15:00:02+02:00</updated>
+  <author>
+    <name>Anchorable</name>
+  </author>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/3885414907974</id>
+    <published>2019-07-12T15:00:02+02:00</published>
+    <updated>2019-07-12T15:00:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/zipper-land-in-sicht"/>
+    <title>Zipper &quot;Land in Sicht&quot;</title>
+    <s:type>Zipper</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/21-1_Zipper-Land-in-Sicht.jpg?v=1562778252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Zipper<br>
+        <strong>Preis: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #999999;"><em>Unisex</em></span><br><br>Land in Sicht! Gibt es viele bessere Gefühle, als wenn es nach einem langen Tief endlich wieder bergauf geht? Auch wenn Du die Augen mal schließt, geht die Sonne noch auf! Unser dicker, gemütlich-weicher Zipper mit Kapuze kommt mit einem kleinen, weißen Brust-Print über dem Herzen und einem großen Backprint auf dem Rücken.<br><br><span>Photos: Jennifer Weber, Hamburg (@naturallightmoments)</span><br><span>Models: </span>Laura (@pritschekuchen), <span>Tim (@teepixx_vid)</span></p>
+<p><span style="color: #999999;"><em>Material: <span>50% Baumwolle / 50% Polyester</span></em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hoodie</s:tag>
+    <s:tag>Jacke</s:tag>
+    <s:tag>Land in Sicht</s:tag>
+    <s:tag>Pullover</s:tag>
+    <s:tag>Sweatshirt</s:tag>
+    <s:tag>Zipper</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>Small</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>Medium</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>X-Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/3885414907974</id>
+      <title>XX-Large</title>
+      <s:price currency="EUR">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

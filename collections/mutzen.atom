@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://anchorable.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://anchorable.myshopify.com/collections/mutzen.atom"/>
+  <title>Anchorable</title>
+  <updated>2019-10-24T17:59:41+02:00</updated>
+  <author>
+    <name>Anchorable</name>
+  </author>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/4308715733064</id>
+    <published>2019-10-24T17:59:41+02:00</published>
+    <updated>2019-10-24T17:59:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/beanie-awesome-autumn"/>
+    <title>Beanie „Awesome Autumn“</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/2-1_Beanie_Awesome-Autumn.jpg?v=1571933298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Pünktlich zur wahrscheinlich besten Jahreszeit die es gibt (keine Widerrede!) haben wir hier 3 neue Beanie-Modelle in wunderschönen, herbstlichen Farben für euch! Perfekter Sitz ist natürlich inklusive! </span><span>😉</span></p>
+<p> </p>
+<p><span style="color: #b3b3b3;"><i>Material: 100% </i>Polyacryl</span></p>
+<p><span style="color: #b3b3b3;"><i>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar in Einzelfällen zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</i></span></p>
+<p><span style="color: #b3b3b3;"><i><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></i></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Autumn</s:tag>
+    <s:tag>Beanie</s:tag>
+    <s:tag>Fall</s:tag>
+    <s:tag>Herbst</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308715733064</id>
+      <title>Mustard</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308715733064</id>
+      <title>Olive</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/4308715733064</id>
+      <title>Rust</title>
+      <s:price currency="EUR">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921932296262</id>
+    <published>2018-12-15T11:30:35+01:00</published>
+    <updated>2018-12-15T11:30:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/beanie-soft-pastel"/>
+    <title>Beanie &quot;Soft Pastel&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_6.JPG?v=1544870370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Die superweiche Beanie kommt in drei wunderschönen Pastelltönen zu euch nach Hause: Mint, Rosa und Blau. Also flauschiger geht es wohl kaum! 😉</p>
+<p><span style="color: #999999;"><em>Material: <span>66% Polyacryl / 31% Polyamid / 3% Elasthan</span></em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beanie</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>Pastell</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921932296262</id>
+      <title>Mint</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921932296262</id>
+      <title>Rosa</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921932296262</id>
+      <title>Blau</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921912176710</id>
+    <published>2018-12-15T11:03:21+01:00</published>
+    <updated>2018-12-15T11:03:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-mustard-blue"/>
+    <title>Bommelmütze &quot;Mustard Blue&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_5.JPG?v=1544869751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eine super stylische Bommelmütze in verschiedenen Blautönen mit senfgelben Highlights. Schön weich gefüttert, ist sie ein Muss für jeden modebewussten Winterfan! 😉</p>
+<p><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921912176710</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921892188230</id>
+    <published>2018-12-15T10:51:44+01:00</published>
+    <updated>2018-12-15T10:51:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-ombre-blue"/>
+    <title>Bommelmütze &quot;Ombre Blue&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_4.JPG?v=1544868123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nicht nur in den Haaren macht das einiges her - auch auf der Mütze sieht so ein Farbverlauf gut aus! 😉 In unserem Fall hier von hellerem blau zu dunklerem blau. Außerdem ist die Bommelmütze schön warm gefüttert!</p>
+<p><span style="color: #999999;"><em>Material: Außen: 100% Polyacryl, Futter: 100% Polyester</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921892188230</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921881636934</id>
+    <published>2018-12-15T10:27:14+01:00</published>
+    <updated>2018-12-15T10:27:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-classic-winter"/>
+    <title>Bommelmütze &quot;Classic Winter&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_3.JPG?v=1544867132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfekter Look für die Winterzeit oder auf dem Weihnachtsmarkt? Kein Problem! Mit unseren hochwertigen "Classic Winter" Bommelmützen macht ihr immer eine gute Figur und kalt wird euch auch ganz bestimmt nicht 😉</p>
+<p><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921881636934</id>
+      <title>Schwarz</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921881636934</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921872756806</id>
+    <published>2018-12-15T10:11:10+01:00</published>
+    <updated>2018-12-15T10:11:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-classic"/>
+    <title>Bommelmütze &quot;Classic&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_2.JPG?v=1544866028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unsere klassische Bommelmützen kommen in einem wunderschönen Senfgelb oder Bordeaux zu euch nach Hause! Und runden so wirklich jedes Winteroutfit ab!</p>
+<p><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921872756806</id>
+      <title>Senfgelb</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921872756806</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1921862336582</id>
+    <published>2018-12-15T09:39:02+01:00</published>
+    <updated>2018-12-15T09:39:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-classic-knit"/>
+    <title>Bommelmütze &quot;Classic Knit&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Muetzen_12-2018_Post_1.JPG?v=1544865034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unsere "Classic Knit" Bommelmütze kommt in zwei Varianten - die "Light"-Variante mit dicker, heller Wolle, die mit einzelnen, dunklen Fäden durchzogen ist - und die "Dark"-Variante genau anders rum 😉 Beide Varianten haben einen schönen, dicken Bommel!<br><br><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921862336582</id>
+      <title>Light</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1921862336582</id>
+      <title>Dark</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723577925702</id>
+    <published>2018-10-24T16:10:55+02:00</published>
+    <updated>2018-10-24T16:10:55+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/beanie-mini-logo"/>
+    <title>Beanie &quot;Mini Logo&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Beanie-Mini-Logo.jpg?v=1540390363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eine klassische Beanie mit unserem schlichten Mini-Anker-Logo am Saum. Sie kommt in 3 verschiedenen Farb-Varianten und bietet euch Schutz an stürmischen Herbsttagen!<br><br><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beanie</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723577925702</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723577925702</id>
+      <title>Grün</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723577925702</id>
+      <title>Beige</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723572256838</id>
+    <published>2018-10-24T16:08:11+02:00</published>
+    <updated>2018-10-24T16:08:11+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/sailor-beanie-mini-logo"/>
+    <title>Sailor-Beanie &quot;Mini-Logo&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Sailor-Beanie-Mini-Logo.jpg?v=1540390234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Diese Sailor-Beanie kommt im hippen Retro-Look und geripptem, etwas dünnerem Strick. Am Saum findet ihr unser schlichtes Mini-Anker-Logo. Sie kommt in 3 verschiedenen Farb-Varianten und macht nicht nur draußen eine super Figur!<br><br><span style="color: #999999;"><em>96% Polyacryl / 4% Polyester</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beanie</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>Sailor</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723572256838</id>
+      <title>Schwarz</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723572256838</id>
+      <title>Gelb</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723572256838</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723572256838</id>
+      <title>Dunkelgrün</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1723564359750</id>
+    <published>2018-10-24T16:04:56+02:00</published>
+    <updated>2018-10-24T16:04:56+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/bommelmutze-mini-logo"/>
+    <title>Bommelmütze &quot;Mini-Logo&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/Bommelmuetze-Mini-Logo.jpg?v=1540390077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            14.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Unsere neuen Bommelmützen mit klassischem und schlichten Mini-Anker-Logo am Saum kommt in 3 verschiedenen Farb-Varianten. Alle mit fettem Bommel und schön warm für kalte Wintertage. Die hellgrau-orangene Variante sogar mit einem extra-kuscheligen Innenfutter!<br><br><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bommel</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723564359750</id>
+      <title>Beige-Korall-Blau</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723564359750</id>
+      <title>Hellgrau-Orange</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1723564359750</id>
+      <title>Dunkelgrau-Blau-Grün</title>
+      <s:price currency="EUR">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1715665207366</id>
+    <published>2018-10-23T15:55:48+02:00</published>
+    <updated>2018-10-23T15:55:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/sailor-beanie-classic"/>
+    <title>Sailor-Beanie &quot;Classic&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/2-1_Sailor-Beanie_Classic.jpg?v=1540303522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eine klassische Sailor-Beanie mit unserem schlichten Mini-Anker-Logo am Saum. Mit ihrem verkürzten Schnitt kommt sie in zwei hippen Farb-Varianten zu euch!<br><br><span style="color: #999999;"><em>Material: 100% Polyacryl</em></span><br><span style="color: #999999;"><em></em></span></p>
+<p><span style="color: #999999;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #999999;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beanie</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1715665207366</id>
+      <title>Baby Pink</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1715665207366</id>
+      <title>Annoying Orange</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://anchorable.myshopify.com/products/1648929144902</id>
+    <published>2018-10-11T15:05:48+02:00</published>
+    <updated>2018-10-11T15:05:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://anchorable.myshopify.com/products/strick-beanie-sprinkle"/>
+    <title>Strick-Beanie &quot;Sprinkle&quot;</title>
+    <s:type>Mütze</s:type>
+    <s:vendor>Anchorable</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0061/3489/0566/products/1-1_Strick-Beanie_Sprinkles.jpg?v=1539264062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Lieferant: </strong>Anchorable<br>
+        <strong>Art: </strong>Mütze<br>
+        <strong>Preis: </strong>
+            12.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eine schicke Strick-Beanie, die über und über mit bunten Sprenklern versehen ist. Mit ihrer längeren Passform gleicht sie viel eher einer klassischen Beanie als zum Beispiel unseren kürzeren Sailor-Beanies – hier bleiben eure Ohren warm!<br><br><span style="color: #cccccc;"><em>Material: 100% Polyacryl</em></span><br><span style="color: #cccccc;"><em></em></span></p>
+<p><span style="color: #cccccc;"><em>Unsere Produkte sind nicht maschinell bedruckt sondern handgefertigt/handbedruckt und handgelabelt und somit Einzelstücke. Daher kann es von Exemplar zu Exemplar zu kleineren Abweichungen (z.B. bei Stand, Deckkraft, usw.) kommen. Unsere Prints sind bis 40°C waschbar und sollten am besten auf links gebügelt werden. Wir verwenden ausschließlich vegane Siebdruckfarbe.</em></span></p>
+<p><span style="color: #cccccc;"><em>Sofort versandfertig, Lieferfirst: bis zu 5 Tagen.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beanie</s:tag>
+    <s:tag>Mütze</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Sprinkle</s:tag>
+    <s:tag>Strick</s:tag>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1648929144902</id>
+      <title>Bordeaux</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1648929144902</id>
+      <title>Schwarz</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1648929144902</id>
+      <title>Blau</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://anchorable.myshopify.com/products/1648929144902</id>
+      <title>Beige</title>
+      <s:price currency="EUR">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>
